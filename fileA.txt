@@ -1,1 +1,1 @@
-This is file A from git repo
+Line from git repo (original)
